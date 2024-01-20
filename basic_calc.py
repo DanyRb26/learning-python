@@ -20,8 +20,8 @@ div = num1 / num2
 
 #OUTPUTS
 print("::: BASIC CALC V1 :::")
-print ("Number 1:", num1 type (num1))
-print ("Number 2:", num2 type (num2))
+print ("Number 1:", num1, type (num1))
+print ("Number 2:", num2, type (num2))
 print("the addition is:",add, type (add))
 print("the subtraction is:",sub, type (sub))
 print("the multiplication:",mul, type(mul))
@@ -31,9 +31,9 @@ print("\n")
 
 
 print("::: BASIC CALC V2 :::")
-print ("Number 1 is: ", num1))
-print ("Number 2 is: ", num2))
-print("the addition is:",num1)
-print("the subtraction is:",num2)
-print("the multiplication:",)
-print("the division is:",)
+print ("Number 1 is: ", num1)
+print ("Number 2 is: ", num2)
+print("the addition is:",num1 + num2)
+print("the subtraction is:",num1 - num2)
+print("the multiplication:",num1*num2)
+print("the division is:",num1/num2)
