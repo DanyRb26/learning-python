@@ -50,7 +50,11 @@ frutas = ['Apple', 'Banana']
 print("frutas", type(frutas))
 colors = ['blue', 'brown', 'yellow']
 print("colors", type(colors))
+
 #5 Duplas
+
+
+
 #6 Diccionarios
 #7 Conjuntos
 

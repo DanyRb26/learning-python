@@ -9,8 +9,9 @@ os.system('clear')
 #input
 print("ingrese primer valor:")
 n1 = input()
-
 n2 = input("Ingrese el segundo valor: \n")
-
 suma = n1 + n2 
 print =("suma:",suma)
+
+
+
